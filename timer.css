@@ -1,0 +1,85 @@
+body{
+  background-color: gray;
+  font-family: 'poppins', sans-serif;
+  height: 100dvh;
+
+
+
+}
+.valorantlogo{
+  width: 120px;
+  height: 120px;
+  margin-bottom: -100px;
+}
+
+
+.valoranttext{
+  font-family: "VALORANT",'poppins',sans-serif;
+  font-size: 130px;
+  writing-mode: vertical-rl;
+  margin-top: -110px;
+  width: 130px;
+  margin-left: 1310px;
+  background-image: linear-gradient(
+    rgba(0, 0, 4, 0.659),
+    rgba(0, 1, 4, 0.183));
+  
+    mix-blend-mode: multiply;
+    color: #ebe9e9;
+    border-radius: 7px;
+
+
+}
+
+.valoranttext2{
+  font-family: "VALORANT",'poppins',sans-serif;
+  font-size: 100px;
+  margin-top: 20px;
+  color: rgb(9, 9, 9);
+
+
+  
+}
+.valorantnormaltext{
+  margin-top: -115px;
+  font-family: 'poppins', sans-serif;
+  font-size: 18px;
+  
+
+}
+
+#Timer {
+  font-size: 50px;
+   margin-top: -400px;
+  width: 430px;
+  color: rgb(35, 34, 34);
+ 
+  }
+
+   .valorantcharacter{
+    margin-left: 55%;
+    margin-bottom: -570px;
+    height: 650px;
+  }
+  .valorantnormaltext2{
+font-size: 18px;
+padding-top: 150px;
+font-family: 'poppins', sans-serif;
+
+  }
+   
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
